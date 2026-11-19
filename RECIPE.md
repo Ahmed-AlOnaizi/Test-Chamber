@@ -1,6 +1,6 @@
 # Test Chamber
 
-A testing-lab layout for Herdr, inspired by the Portal and Half-Life games but built only from
+A testing-lab layout for Herdr, inspired by the Portal games but built only from
 original names and art. Spaces are numbered **chambers**, tabs are **tests** and agents are
 **subjects**. Lab panels surround the terminals, and a status HUD runs along the bottom. Blue
 always means focus and working; orange always means an agent needs you. The right panel holds a
