@@ -1,6 +1,6 @@
 # Test Chamber
 
-A testing-lab layout for the [Herdr](https://herdr.dev) app, inspired by the Portal and Half-Life
+A testing-lab layout for the [Herdr](https://herdr.dev) app, inspired by the Portal
 games. It is built from original names and art only. It has lab panels, a status HUD, and a
 portal gun that aims at your panes: left-click opens a terminal (Claude Code, Codex or a shell),
 right-click opens a notepad pane.
